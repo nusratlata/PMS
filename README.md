@@ -5,7 +5,7 @@
 #### STEP 1
 
  ```sh
-   git clone https://github.com/ZeroBug404/pharmecy-management.git
+   git clone https://github.com/nusratlata/PMS.git
    ```
 
 #### STEP 2
